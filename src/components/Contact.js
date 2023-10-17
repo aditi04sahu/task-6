@@ -9,7 +9,7 @@ export default function Contact() {
             <div className="col-md-8 pb-4" data-aos="fade-up">
               <h6 className="text-brand">CONTACT</h6>
               <h1 className="heading">
-                Interested in working together? Let's talk
+                Let's Connect and Work Together
               </h1>
             </div>
 

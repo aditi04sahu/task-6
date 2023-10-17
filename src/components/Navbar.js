@@ -6,7 +6,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-md navbar-scrolled fixed-top bg-body-tertiary bg-dark navbar-dark">
         <div className="container">
           <a className="navbar-brand" href="#">
-            <h3>Srijan Kumar</h3>
+            <h3>Aditi Sahu</h3>
           </a>
           <button
             className="navbar-toggler"
@@ -35,7 +35,7 @@ export default function Navbar() {
               </a>
               <a
                 className="nav-link active"
-                href="https://drive.google.com/file/d/19nLYvflMu-GQWOmTrL18aRbvIba25Mhn/view?usp=share_link"
+                href="https://docs.google.com/document/d/1sNi5LaB2g5G9-jeKTjVnY_F0KVQtv_3F/edit?usp=sharing&ouid=105632661837574443566&rtpof=true&sd=true"
               >
                 Resume
               </a>

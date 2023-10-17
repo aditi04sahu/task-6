@@ -10,7 +10,7 @@ export default function Footer() {
               <p className="mb-0">
                 Designed by{" "}
                 <a href="#" className="footer">
-                  SRIJAN
+                  ADITI
                 </a>
               </p>
             </div>

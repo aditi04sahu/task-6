@@ -12,10 +12,10 @@ export default function Home() {
             <h1 className="display-1 fw-bold">
               Hi there! I am
               <br />
-              <span className="text-brand">Srijan Kumar.</span>
+              <span className="text-brand">Aditi Sahu.</span>
             </h1>
             <h4 className="mt-3 mb-5">
-              Web designer and developer from Bihar, India.
+              Web designer and developer from Chhattisgarh, India.
             </h4>
             <a href="contact" className="btn btn-brand">
               Get Connected
